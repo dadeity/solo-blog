@@ -10,9 +10,9 @@ dadeity 的个人博客
 
 ### 最新
 
-* [test](http://www.dduan.site/articles/2019/10/28/1572241548349.html)
-* [我在 GitHub 上的开源项目](http://www.dduan.site/my-github-repos)
-* [世界，你好！](http://www.dduan.site/hello-solo)
+* [test](https://www.dduan.site/articles/2019/10/28/1572241548349.html)
+* [我在 GitHub 上的开源项目](https://www.dduan.site/my-github-repos)
+* [世界，你好！](https://www.dduan.site/hello-solo)
 
 
 
