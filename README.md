@@ -1,4 +1,4 @@
-<p align="center"><img alt="dadeity" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="dadeity" src="https://avatars1.githubusercontent.com/u/42400738?v=4"></p><h2 align="center">
 dadeity
 </h2>
 
