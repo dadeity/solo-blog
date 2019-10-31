@@ -10,6 +10,7 @@ dadeity
 
 ### 最新
 
+* [WNMP环境搭建（Win10+Nginx+MySQL+PHP）](https://www.dduan.site/articles/2019/10/31/1572502254745.html)
 * [Linux 设置定时重启](https://www.dduan.site/articles/2019/10/29/1572343601696.html)
 * [ Linux 使用crontab定时备份Mysql数据库](https://www.dduan.site/articles/2019/10/29/1572341332608.html)
 * [阿里云服务器SSH：Network error: Connection refused解决](https://www.dduan.site/articles/2019/10/29/1572339964561.html)
