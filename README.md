@@ -10,6 +10,7 @@ dadeity
 
 ### 最新
 
+* [WAMP环境搭建（Win10+Apache+MySQL+PHP）](https://www.dduan.site/articles/2019/11/04/1572836112534.html)
 * [WNMP环境搭建（Win10+Nginx+MySQL+PHP）](https://www.dduan.site/articles/2019/10/31/1572502254745.html)
 * [Linux 设置定时重启](https://www.dduan.site/articles/2019/10/29/1572343601696.html)
 * [ Linux 使用crontab定时备份Mysql数据库](https://www.dduan.site/articles/2019/10/29/1572341332608.html)
