@@ -10,6 +10,7 @@ dadeity
 
 ### 最新
 
+* [Failed to initialize component [org.apache.catalina.webresources.JarResource 解决](https://www.dduan.site/articles/2019/11/26/1574733926071.html)
 * [KMS命令激活 Win10](https://www.dduan.site/articles/2019/11/18/1574046116713.html)
 * [AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name](https://www.dduan.site/articles/2019/11/11/1573464240955.html)
 * [WAMP环境搭建（Win10+Apache+MySQL+PHP）](https://www.dduan.site/articles/2019/11/04/1572836112534.html)
