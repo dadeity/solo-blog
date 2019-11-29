@@ -5,11 +5,12 @@ dadeity
 <h4 align="center">记录精彩的程序人生</h4>
 <p align="center"><a title="dadeity" target="_blank" href="https://github.com/dadeity/solo-blog"><img src="https://img.shields.io/github/last-commit/dadeity/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/dadeity/solo-blog"><img src="https://img.shields.io/github/repo-size/dadeity/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/dadeity/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/dadeity/solo-blog.svg"></a></p>
 
 ### 最新
 
+* ['build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing.解决](https://www.dduan.site/articles/2019/11/29/1575013789495.html)
 * [Failed to initialize component [org.apache.catalina.webresources.JarResource 解决](https://www.dduan.site/articles/2019/11/26/1574733926071.html)
 * [KMS命令激活 Win10](https://www.dduan.site/articles/2019/11/18/1574046116713.html)
 * [AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name](https://www.dduan.site/articles/2019/11/11/1573464240955.html)
@@ -30,4 +31,4 @@ dadeity
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
