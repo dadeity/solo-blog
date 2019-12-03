@@ -10,6 +10,7 @@ dadeity
 
 ### 最新
 
+* [Application Server was not connected before run configuration stop, reason: Unable to ping…解决办法](https://www.dduan.site/articles/2019/12/03/1575352505017.html)
 * ['build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing.解决](https://www.dduan.site/articles/2019/11/29/1575013789495.html)
 * [Failed to initialize component [org.apache.catalina.webresources.JarResource 解决](https://www.dduan.site/articles/2019/11/26/1574733926071.html)
 * [KMS命令激活 Win10](https://www.dduan.site/articles/2019/11/18/1574046116713.html)
