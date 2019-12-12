@@ -10,6 +10,7 @@ dadeity
 
 ### 最新
 
+* [Java GET方式插入数据乱码解决](https://www.dduan.site/articles/2019/12/12/1576125939103.html)
 * [ERROR 2003 (HY000): Can't connect to MySQL server on '192.168.2.48' (110)](https://www.dduan.site/articles/2019/12/09/1575857676988.html)
 * [简单实现 iframe 全屏显示](https://www.dduan.site/articles/2019/12/06/1575630542343.html)
 * [Application Server was not connected before run configuration stop, reason: Unable to ping…解决办法](https://www.dduan.site/articles/2019/12/03/1575352505017.html)
